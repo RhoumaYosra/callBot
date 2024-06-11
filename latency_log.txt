@@ -1,0 +1,1193 @@
+INFO:root:Text-to-Speech (gTTS) took 0.66 seconds
+INFO:root:Play Audio took 2.71 seconds
+INFO:root:Total TTS including playback took 3.37 seconds
+INFO:root:Audio Recording took 4.54 seconds
+INFO:root:Audio Transcription took 17.10 seconds
+INFO:root:Total Speech Recognition took 21.64 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.82 seconds
+INFO:root:Text-to-Speech (gTTS) took 6.26 seconds
+INFO:root:Play Audio took 54.19 seconds
+INFO:root:Total TTS including playback took 60.45 seconds
+INFO:root:Total Response Time took 61.28 seconds
+INFO:root:Audio Recording took 4.50 seconds
+INFO:root:Audio Transcription took 6.19 seconds
+INFO:root:Total Speech Recognition took 10.69 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 3.21 seconds
+INFO:root:Audio Recording took 4.55 seconds
+INFO:root:Audio Transcription took 4.60 seconds
+INFO:root:Total Speech Recognition took 9.15 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.58 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 10.71 seconds
+INFO:root:Total Response Time took 11.29 seconds
+INFO:root:Audio Recording took 4.41 seconds
+INFO:root:Audio Transcription took 3.71 seconds
+INFO:root:Total Speech Recognition took 8.13 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.50 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 28.71 seconds
+INFO:root:Total Response Time took 29.22 seconds
+INFO:root:Audio Recording took 4.40 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.56 seconds
+INFO:root:Play Audio took 3.91 seconds
+INFO:root:Total TTS including playback took 4.47 seconds
+INFO:root:Audio Recording took 4.52 seconds
+INFO:root:Audio Transcription took 7.78 seconds
+INFO:root:Total Speech Recognition took 12.30 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.66 seconds
+INFO:root:Text-to-Speech (gTTS) took 2.03 seconds
+INFO:root:Play Audio took 16.54 seconds
+INFO:root:Total TTS including playback took 18.57 seconds
+INFO:root:Total Response Time took 19.23 seconds
+INFO:root:Audio Recording took 4.39 seconds
+INFO:root:Audio Transcription took 3.21 seconds
+INFO:root:Total Speech Recognition took 7.61 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.46 seconds
+INFO:root:Text-to-Speech (gTTS) took 1.67 seconds
+INFO:root:Play Audio took 10.92 seconds
+INFO:root:Total TTS including playback took 12.60 seconds
+INFO:root:Total Response Time took 13.06 seconds
+INFO:root:Audio Recording took 4.38 seconds
+INFO:root:Audio Transcription took 3.22 seconds
+INFO:root:Total Speech Recognition took 7.60 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.41 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.53 seconds
+INFO:root:Play Audio took 6.71 seconds
+INFO:root:Total TTS including playback took 7.24 seconds
+INFO:root:Total Response Time took 7.65 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.61 seconds
+INFO:root:Play Audio took 2.67 seconds
+INFO:root:Total TTS including playback took 3.27 seconds
+INFO:root:Audio Recording took 4.55 seconds
+INFO:root:Audio Transcription took 6.26 seconds
+INFO:root:Total Speech Recognition took 10.82 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.93 seconds
+INFO:root:Text-to-Speech (gTTS) took 12.82 seconds
+INFO:root:Play Audio took 60.38 seconds
+INFO:root:Total TTS including playback took 73.20 seconds
+INFO:root:Total Response Time took 74.13 seconds
+INFO:root:Audio Recording took 4.40 seconds
+INFO:root:Audio Transcription took 6.53 seconds
+INFO:root:Total Speech Recognition took 10.94 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.53 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.75 seconds
+INFO:root:Play Audio took 2.52 seconds
+INFO:root:Total TTS including playback took 3.27 seconds
+INFO:root:Audio Recording took 4.29 seconds
+INFO:root:Saving Audio took 0.12 seconds
+INFO:root:Audio Transcription took 6.56 seconds
+INFO:root:Total Speech Recognition took 10.97 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 1.03 seconds
+INFO:root:Text-to-Speech (gTTS) took 15.10 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.48 seconds
+INFO:root:Play Audio took 2.51 seconds
+INFO:root:Total TTS including playback took 2.99 seconds
+INFO:root:Audio Recording took 4.29 seconds
+INFO:root:Saving Audio took 0.13 seconds
+INFO:root:Audio Transcription took 6.40 seconds
+INFO:root:Total Speech Recognition took 10.82 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.71 seconds
+INFO:root:Text-to-Speech (gTTS) took 6.94 seconds
+INFO:root:Play Audio took 57.47 seconds
+INFO:root:Total TTS including playback took 64.41 seconds
+INFO:root:Total Response Time took 65.12 seconds
+INFO:root:Audio Recording took 4.27 seconds
+INFO:root:Saving Audio took 0.12 seconds
+INFO:root:Audio Transcription took 6.17 seconds
+INFO:root:Total Speech Recognition took 10.57 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.70 seconds
+INFO:root:Text-to-Speech (gTTS) took 8.19 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.50 seconds
+INFO:root:Play Audio took 2.50 seconds
+INFO:root:Total TTS including playback took 3.00 seconds
+INFO:root:Audio Recording took 4.29 seconds
+INFO:root:Saving Audio took 0.13 seconds
+INFO:root:Audio Transcription took 6.42 seconds
+INFO:root:Total Speech Recognition took 10.84 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 1.23 seconds
+INFO:root:Text-to-Speech (gTTS) took 26.00 seconds
+INFO:root:Play Audio took 202.48 seconds
+INFO:root:Total TTS including playback took 228.48 seconds
+INFO:root:Total Response Time took 229.71 seconds
+INFO:root:Audio Recording took 4.27 seconds
+INFO:root:Saving Audio took 0.14 seconds
+INFO:root:Audio Transcription took 6.39 seconds
+INFO:root:Total Speech Recognition took 10.80 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.93 seconds
+INFO:root:Text-to-Speech (gTTS) took 2.14 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.46 seconds
+INFO:root:Play Audio took 2.51 seconds
+INFO:root:Total TTS including playback took 2.97 seconds
+INFO:root:Audio Recording took 4.29 seconds
+INFO:root:Saving Audio took 0.14 seconds
+INFO:root:Audio Transcription took 6.42 seconds
+INFO:root:Total Speech Recognition took 10.85 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.67 seconds
+INFO:root:Text-to-Speech (gTTS) took 5.37 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.46 seconds
+INFO:root:Play Audio took 2.51 seconds
+INFO:root:Total TTS including playback took 2.97 seconds
+INFO:root:Audio Recording took 4.29 seconds
+INFO:root:Saving Audio took 0.13 seconds
+INFO:root:Audio Transcription took 6.51 seconds
+INFO:root:Total Speech Recognition took 10.93 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.54 seconds
+INFO:root:Text-to-Speech (gTTS) took 4.84 seconds
+INFO:root:Play Audio took 32.74 seconds
+INFO:root:Total TTS including playback took 37.58 seconds
+INFO:root:Total Response Time took 38.12 seconds
+INFO:root:Audio Recording took 4.27 seconds
+INFO:root:Saving Audio took 0.13 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.54 seconds
+INFO:root:Play Audio took 3.49 seconds
+INFO:root:Total TTS including playback took 4.03 seconds
+INFO:root:Audio Recording took 4.54 seconds
+INFO:root:Audio Transcription took 3.72 seconds
+INFO:root:Total Speech Recognition took 8.27 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.81 seconds
+INFO:root:Text-to-Speech (gTTS) took 7.04 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.56 seconds
+INFO:root:Play Audio took 2.52 seconds
+INFO:root:Total TTS including playback took 3.08 seconds
+INFO:root:Audio Recording took 4.29 seconds
+INFO:root:Saving Audio took 0.13 seconds
+INFO:root:Audio Transcription took 6.59 seconds
+INFO:root:Total Speech Recognition took 11.01 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.76 seconds
+INFO:root:Text-to-Speech (gTTS) took 4.05 seconds
+INFO:root:Play Audio took 41.35 seconds
+INFO:root:Total TTS including playback took 45.40 seconds
+INFO:root:Total Response Time took 46.16 seconds
+INFO:root:Audio Recording took 4.30 seconds
+INFO:root:Saving Audio took 0.38 seconds
+INFO:root:Audio Transcription took 5.98 seconds
+INFO:root:Total Speech Recognition took 10.67 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.54 seconds
+INFO:root:Text-to-Speech (gTTS) took 4.29 seconds
+INFO:root:Play Audio took 30.93 seconds
+INFO:root:Total TTS including playback took 35.21 seconds
+INFO:root:Total Response Time took 35.76 seconds
+INFO:root:Audio Recording took 4.29 seconds
+INFO:root:Saving Audio took 0.12 seconds
+INFO:root:Audio Transcription took 6.35 seconds
+INFO:root:Total Speech Recognition took 10.76 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 2.01 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Play Audio took 3.25 seconds
+INFO:root:Audio Recording took 4.46 seconds
+INFO:root:Saving Audio took 0.12 seconds
+INFO:root:Audio Transcription took 31.74 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Play Audio took 2.86 seconds
+INFO:root:Audio Recording took 4.29 seconds
+INFO:root:Saving Audio took 0.12 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.67 seconds
+INFO:root:Play Audio took 2.55 seconds
+INFO:root:Total TTS including playback took 3.23 seconds
+INFO:root:Audio Recording took 4.33 seconds
+INFO:root:Saving Audio took 0.17 seconds
+INFO:root:Audio Transcription took 10.93 seconds
+INFO:root:Total Speech Recognition took 15.43 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 1.47 seconds
+INFO:root:Text-to-Speech (gTTS) took 4.24 seconds
+INFO:root:Play Audio took 29.25 seconds
+INFO:root:Total TTS including playback took 33.49 seconds
+INFO:root:Total Response Time took 34.96 seconds
+INFO:root:Audio Recording took 4.29 seconds
+INFO:root:Saving Audio took 0.09 seconds
+INFO:root:Audio Transcription took 9.38 seconds
+INFO:root:Total Speech Recognition took 13.77 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 1.08 seconds
+INFO:root:Text-to-Speech (gTTS) took 9.64 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech took 3.65 seconds
+INFO:root:Audio Recording took 4.16 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 3.17 seconds
+INFO:root:Audio Recording took 5.97 seconds
+INFO:root:Audio Transcription took 1.54 seconds
+INFO:root:Total Speech Recognition took 7.50 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.72 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 27.27 seconds
+INFO:root:Total Response Time took 28.00 seconds
+INFO:root:Audio Recording took 23.70 seconds
+INFO:root:Audio Transcription took 3.53 seconds
+INFO:root:Total Speech Recognition took 27.24 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.63 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 42.79 seconds
+INFO:root:Total Response Time took 43.43 seconds
+INFO:root:Audio Recording took 6.26 seconds
+INFO:root:Audio Transcription took 1.09 seconds
+INFO:root:Total Speech Recognition took 7.35 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.48 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.82 seconds
+INFO:root:Audio Recording took 4.04 seconds
+INFO:root:Audio Transcription took 1.50 seconds
+INFO:root:Total Speech Recognition took 5.54 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.62 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 21.97 seconds
+INFO:root:Total Response Time took 22.59 seconds
+INFO:root:Audio Recording took 6.76 seconds
+INFO:root:Audio Transcription took 2.24 seconds
+INFO:root:Total Speech Recognition took 9.00 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.82 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 70.85 seconds
+INFO:root:Total Response Time took 71.67 seconds
+INFO:root:Audio Recording took 11.24 seconds
+INFO:root:Audio Transcription took 2.79 seconds
+INFO:root:Total Speech Recognition took 14.03 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.57 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 21.10 seconds
+INFO:root:Total Response Time took 21.68 seconds
+INFO:root:Audio Recording took 7.64 seconds
+INFO:root:Audio Transcription took 1.48 seconds
+INFO:root:Total Speech Recognition took 9.12 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.47 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 8.53 seconds
+INFO:root:Total Response Time took 9.00 seconds
+INFO:root:Audio Recording took 4.11 seconds
+INFO:root:Audio Transcription took 1.18 seconds
+INFO:root:Total Speech Recognition took 5.29 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.46 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 10.21 seconds
+INFO:root:Total Response Time took 10.67 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.63 seconds
+INFO:root:Audio Recording took 4.40 seconds
+INFO:root:Saving Audio took 0.12 seconds
+INFO:root:Audio Transcription took 4.57 seconds
+INFO:root:Total Speech Recognition took 9.09 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.96 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.66 seconds
+INFO:root:Audio Recording took 2.20 seconds
+INFO:root:Audio Transcription took 1.17 seconds
+INFO:root:Total Speech Recognition took 3.37 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 1.05 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.59 seconds
+INFO:root:Play Audio took 2.68 seconds
+INFO:root:Total TTS including playback took 3.28 seconds
+INFO:root:Audio Recording took 4.61 seconds
+INFO:root:Saving Audio took 0.13 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.56 seconds
+INFO:root:Play Audio took 2.55 seconds
+INFO:root:Total TTS including playback took 3.11 seconds
+INFO:root:Audio Recording took 4.29 seconds
+INFO:root:Saving Audio took 0.11 seconds
+INFO:root:Text-to-Speech (gTTS) took 0.47 seconds
+INFO:root:Play Audio took 2.57 seconds
+INFO:root:Total TTS including playback took 3.04 seconds
+INFO:root:Audio Recording took 4.29 seconds
+INFO:root:Saving Audio took 0.12 seconds
+INFO:root:Audio Transcription took 6.61 seconds
+INFO:root:Total Speech Recognition took 11.03 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 1.59 seconds
+INFO:root:Text-to-Speech (gTTS) took 11.43 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.60 seconds
+INFO:root:Audio Recording took 6.52 seconds
+INFO:root:Audio Transcription took 2.25 seconds
+INFO:root:Total Speech Recognition took 8.78 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 1.26 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 103.31 seconds
+INFO:root:Total Response Time took 104.58 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.76 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.55 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.48 seconds
+INFO:root:Audio Recording took 6.64 seconds
+INFO:root:Saving Audio took 0.13 seconds
+INFO:root:Audio Transcription took 4.41 seconds
+INFO:root:Total Speech Recognition took 11.18 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 1.93 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.45 seconds
+INFO:root:Audio Recording took 6.51 seconds
+INFO:root:Saving Audio took 0.13 seconds
+INFO:root:Audio Transcription took 24.44 seconds
+INFO:root:Total Speech Recognition took 31.08 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 3.11 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.47 seconds
+INFO:root:Audio Recording took 6.54 seconds
+INFO:root:Saving Audio took 0.14 seconds
+INFO:root:Audio Transcription took 12.42 seconds
+INFO:root:Total Speech Recognition took 19.09 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 1.29 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.55 seconds
+INFO:root:Audio Recording took 6.54 seconds
+INFO:root:Saving Audio took 0.11 seconds
+INFO:root:Audio Transcription took 14.11 seconds
+INFO:root:Total Speech Recognition took 20.75 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.76 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.47 seconds
+INFO:root:Audio Recording took 6.58 seconds
+INFO:root:Saving Audio took 0.13 seconds
+INFO:root:Audio Transcription took 13.14 seconds
+INFO:root:Total Speech Recognition took 19.85 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.65 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.54 seconds
+INFO:root:Audio Recording took 6.55 seconds
+INFO:root:Saving Audio took 0.12 seconds
+INFO:root:Audio Transcription took 4.25 seconds
+INFO:root:Total Speech Recognition took 10.92 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 1.49 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.97 seconds
+INFO:root:Audio Recording took 6.53 seconds
+INFO:root:Saving Audio took 0.11 seconds
+INFO:root:Audio Transcription took 13.52 seconds
+INFO:root:Total Speech Recognition took 20.17 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 2.21 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 16.84 seconds
+INFO:root:Total Response Time took 19.06 seconds
+INFO:root:Audio Recording took 6.54 seconds
+INFO:root:Saving Audio took 0.08 seconds
+INFO:root:Audio Transcription took 3.41 seconds
+INFO:root:Total Speech Recognition took 10.04 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.61 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 50.60 seconds
+INFO:root:Total Response Time took 51.22 seconds
+INFO:root:Audio Recording took 6.59 seconds
+INFO:root:Saving Audio took 0.12 seconds
+INFO:root:Audio Transcription took 16.02 seconds
+INFO:root:Total Speech Recognition took 22.73 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 2.25 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 19.79 seconds
+INFO:root:Total Response Time took 22.05 seconds
+INFO:root:Audio Recording took 7.04 seconds
+INFO:root:Saving Audio took 0.10 seconds
+INFO:root:Audio Transcription took 12.24 seconds
+INFO:root:Total Speech Recognition took 19.38 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 6.72 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 22.36 seconds
+INFO:root:Total Response Time took 29.09 seconds
+INFO:root:Audio Recording took 6.72 seconds
+INFO:root:Saving Audio took 0.12 seconds
+INFO:root:Audio Transcription took 3.80 seconds
+INFO:root:Total Speech Recognition took 10.64 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 6.27 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 46.46 seconds
+INFO:root:Total Response Time took 52.74 seconds
+INFO:root:Audio Recording took 7.21 seconds
+INFO:root:Saving Audio took 0.13 seconds
+INFO:root:Audio Transcription took 6.16 seconds
+INFO:root:Total Speech Recognition took 13.51 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.49 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 32.78 seconds
+INFO:root:Total Response Time took 33.28 seconds
+INFO:root:Audio Recording took 7.09 seconds
+INFO:root:Saving Audio took 0.13 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.87 seconds
+INFO:root:Audio Recording took 6.55 seconds
+INFO:root:Saving Audio took 0.07 seconds
+INFO:root:Audio Transcription took 4.63 seconds
+INFO:root:Total Speech Recognition took 11.25 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.85 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.76 seconds
+INFO:root:Audio Recording took 3.96 seconds
+INFO:root:Audio Transcription took 1.32 seconds
+INFO:root:Total Speech Recognition took 5.28 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 1.23 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 3.16 seconds
+INFO:root:Audio Recording took 3.60 seconds
+INFO:root:Audio Transcription took 1.14 seconds
+INFO:root:Total Speech Recognition took 4.74 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 1.54 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.81 seconds
+INFO:root:Audio Recording took 6.27 seconds
+INFO:root:Audio Transcription took 1.40 seconds
+INFO:root:Total Speech Recognition took 7.68 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.96 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.98 seconds
+INFO:root:Audio Recording took 7.24 seconds
+INFO:root:Audio Transcription took 1.19 seconds
+INFO:root:Total Speech Recognition took 8.43 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.62 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 17.26 seconds
+INFO:root:Total Response Time took 17.89 seconds
+INFO:root:Audio Recording took 3.72 seconds
+INFO:root:Audio Transcription took 0.74 seconds
+INFO:root:Total Speech Recognition took 4.47 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.46 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 13.77 seconds
+INFO:root:Total Response Time took 14.23 seconds
+INFO:root:Audio Recording took 13.41 seconds
+INFO:root:Audio Transcription took 3.12 seconds
+INFO:root:Total Speech Recognition took 16.53 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.90 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.86 seconds
+INFO:root:Audio Recording took 6.53 seconds
+INFO:root:Saving Audio took 0.13 seconds
+INFO:root:Audio Transcription took 4.04 seconds
+INFO:root:Total Speech Recognition took 10.70 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.76 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.86 seconds
+INFO:root:Audio Recording took 6.54 seconds
+INFO:root:Saving Audio took 0.10 seconds
+INFO:root:Audio Transcription took 4.84 seconds
+INFO:root:Total Speech Recognition took 11.48 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.61 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 12.07 seconds
+INFO:root:Total Response Time took 12.69 seconds
+INFO:root:Audio Recording took 6.83 seconds
+INFO:root:Saving Audio took 0.06 seconds
+INFO:root:Audio Transcription took 3.57 seconds
+INFO:root:Total Speech Recognition took 10.47 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 0.77 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 3.16 seconds
+INFO:root:Audio Recording took 3.12 seconds
+INFO:root:Audio Transcription took 1.19 seconds
+INFO:root:Total Speech Recognition took 4.31 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 3.70 seconds
+INFO:root:Audio Recording took 2.53 seconds
+INFO:root:Audio Transcription took 0.72 seconds
+INFO:root:Total Speech Recognition took 3.26 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 3.53 seconds
+INFO:root:Audio Recording took 3.79 seconds
+INFO:root:Audio Transcription took 1.04 seconds
+INFO:root:Total Speech Recognition took 4.83 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 9.83 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 3.55 seconds
+INFO:root:Audio Recording took 4.10 seconds
+INFO:root:Audio Transcription took 1.33 seconds
+INFO:root:Total Speech Recognition took 5.44 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 3.54 seconds
+INFO:root:Audio Recording took 2.38 seconds
+INFO:root:Audio Transcription took 0.79 seconds
+INFO:root:Total Speech Recognition took 3.17 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:groq._base_client:Retrying request to /openai/v1/chat/completions in 0.857477 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 3.54 seconds
+INFO:root:Audio Recording took 2.78 seconds
+INFO:root:Audio Transcription took 1.00 seconds
+INFO:root:Total Speech Recognition took 3.77 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:groq._base_client:Retrying request to /openai/v1/chat/completions in 0.830810 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.59 seconds
+INFO:root:Audio Recording took 2.40 seconds
+INFO:root:Audio Transcription took 0.80 seconds
+INFO:root:Total Speech Recognition took 3.20 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 6.68 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 8.47 seconds
+INFO:root:Total Response Time took 15.15 seconds
+INFO:root:Audio Recording took 4.28 seconds
+INFO:root:Audio Transcription took 0.90 seconds
+INFO:root:Total Speech Recognition took 5.18 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 9.27 seconds
+INFO:root:Text-to-Speech (pyttsx3) took 7.25 seconds
+INFO:root:Total Response Time took 16.53 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.85 seconds
+INFO:root:Audio Recording took 6.69 seconds
+INFO:root:Saving Audio took 0.11 seconds
+INFO:root:Audio Transcription took 4.34 seconds
+INFO:root:Total Speech Recognition took 11.14 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 9.21 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Text-to-Speech (pyttsx3) took 2.90 seconds
+INFO:root:Audio Recording took 6.59 seconds
+INFO:root:Saving Audio took 0.11 seconds
+INFO:root:Audio Transcription took 4.19 seconds
+INFO:root:Total Speech Recognition took 10.90 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Groq API Call took 9.30 seconds
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.44 secondes
+INFO:root:Enregistrement audio a pris 6.71 secondes
+INFO:root:Sauvegarde audio a pris 0.12 secondes
+INFO:root:Transcription audio a pris 4.31 secondes
+INFO:root:Reconnaissance vocale totale a pris 11.14 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.47 secondes
+INFO:root:Enregistrement audio a pris 6.55 secondes
+INFO:root:Sauvegarde audio a pris 0.12 secondes
+INFO:root:Transcription audio a pris 4.50 secondes
+INFO:root:Reconnaissance vocale totale a pris 11.18 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.40 secondes
+INFO:root:Enregistrement audio a pris 6.56 secondes
+INFO:root:Sauvegarde audio a pris 0.12 secondes
+INFO:root:Transcription audio a pris 14.44 secondes
+INFO:root:Reconnaissance vocale totale a pris 21.13 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.48 secondes
+INFO:root:Enregistrement audio a pris 6.54 secondes
+INFO:root:Sauvegarde audio a pris 0.13 secondes
+INFO:root:Transcription audio a pris 4.63 secondes
+INFO:root:Reconnaissance vocale totale a pris 11.30 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 9.21 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 8.34 secondes
+INFO:root:Temps de réponse total a pris 17.56 secondes
+INFO:root:Enregistrement audio a pris 6.60 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 3.94 secondes
+INFO:root:Reconnaissance vocale totale a pris 10.65 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 6.58 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 2.91 secondes
+INFO:root:Enregistrement audio a pris 4.49 secondes
+INFO:root:Sauvegarde audio a pris 0.12 secondes
+INFO:root:Transcription audio a pris 0.98 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.59 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 11.08 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.46 secondes
+INFO:root:Enregistrement audio a pris 4.49 secondes
+INFO:root:Sauvegarde audio a pris 0.12 secondes
+INFO:root:Transcription audio a pris 1.45 secondes
+INFO:root:Reconnaissance vocale totale a pris 6.06 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.42 secondes
+INFO:root:Enregistrement audio a pris 4.50 secondes
+INFO:root:Sauvegarde audio a pris 0.12 secondes
+INFO:root:Transcription audio a pris 0.91 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.53 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:groq._base_client:Retrying request to /openai/v1/chat/completions in 0.811259 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:groq._base_client:Retrying request to /openai/v1/chat/completions in 1.891848 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.48 secondes
+INFO:root:Enregistrement audio a pris 4.49 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 1.38 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.98 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 1.86 secondes
+INFO:root:Temps de réponse total a pris 1.86 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.93 secondes
+INFO:root:Enregistrement audio a pris 6.70 secondes
+INFO:root:Sauvegarde audio a pris 0.10 secondes
+INFO:root:Transcription audio a pris 4.66 secondes
+INFO:root:Reconnaissance vocale totale a pris 11.46 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 11.42 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.46 secondes
+INFO:root:Enregistrement audio a pris 4.50 secondes
+INFO:root:Sauvegarde audio a pris 0.36 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.42 secondes
+INFO:root:Enregistrement audio a pris 4.49 secondes
+INFO:root:Sauvegarde audio a pris 0.12 secondes
+INFO:root:Transcription audio a pris 1.51 secondes
+INFO:root:Reconnaissance vocale totale a pris 6.11 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 8.33 secondes
+INFO:root:Temps de réponse total a pris 8.33 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 150.49 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.10 secondes
+INFO:root:Transcription audio a pris 0.41 secondes
+INFO:root:Reconnaissance vocale totale a pris 4.78 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 4.86 secondes
+INFO:root:Temps de réponse total a pris 4.86 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 20.41 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.09 secondes
+INFO:root:Transcription audio a pris 0.71 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.09 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 11.15 secondes
+INFO:root:Temps de réponse total a pris 11.15 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 21.38 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.09 secondes
+INFO:root:Transcription audio a pris 0.72 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.09 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:groq._base_client:Retrying request to /openai/v1/chat/completions in 0.981385 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:groq._base_client:Retrying request to /openai/v1/chat/completions in 1.949737 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:root:Temps de réponse total a pris 39.79 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.85 secondes
+INFO:root:Enregistrement audio a pris 4.30 secondes
+INFO:root:Sauvegarde audio a pris 0.13 secondes
+INFO:root:Transcription audio a pris 0.75 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.18 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 9.65 secondes
+INFO:root:Temps de réponse total a pris 9.65 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 20.49 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.37 secondes
+INFO:root:Transcription audio a pris 0.91 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.56 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:groq._base_client:Retrying request to /openai/v1/chat/completions in 0.829020 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 20.90 secondes
+INFO:root:Temps de réponse total a pris 20.91 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 16.80 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.75 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.14 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 6.34 secondes
+INFO:root:Temps de réponse total a pris 6.34 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 25.69 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.38 secondes
+INFO:root:Transcription audio a pris 0.64 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.31 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 2.65 secondes
+INFO:root:Temps de réponse total a pris 2.65 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 11.61 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.65 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.04 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 1.89 secondes
+INFO:root:Temps de réponse total a pris 1.89 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 22.19 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.64 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.03 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 2.58 secondes
+INFO:root:Temps de réponse total a pris 2.58 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 22.90 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.12 secondes
+INFO:root:Transcription audio a pris 0.48 secondes
+INFO:root:Reconnaissance vocale totale a pris 4.88 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 5.03 secondes
+INFO:root:Temps de réponse total a pris 5.03 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 24.82 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.46 secondes
+INFO:root:Reconnaissance vocale totale a pris 4.85 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 5.10 secondes
+INFO:root:Temps de réponse total a pris 5.10 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 24.14 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.12 secondes
+INFO:root:Transcription audio a pris 0.71 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.10 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 8.13 secondes
+INFO:root:Temps de réponse total a pris 8.13 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 12.69 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.41 secondes
+INFO:root:Reconnaissance vocale totale a pris 4.80 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 5.63 secondes
+INFO:root:Temps de réponse total a pris 5.63 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 13.51 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.12 secondes
+INFO:root:Transcription audio a pris 0.54 secondes
+INFO:root:Reconnaissance vocale totale a pris 4.93 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 11.08 secondes
+INFO:root:Temps de réponse total a pris 11.08 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 17.15 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.48 secondes
+INFO:root:Reconnaissance vocale totale a pris 4.87 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 9.98 secondes
+INFO:root:Temps de réponse total a pris 9.98 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 22.50 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.62 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.01 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 7.35 secondes
+INFO:root:Temps de réponse total a pris 7.35 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 12.47 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.53 secondes
+INFO:root:Reconnaissance vocale totale a pris 4.92 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:groq._base_client:Retrying request to /openai/v1/chat/completions in 0.981773 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 18.37 secondes
+INFO:root:Temps de réponse total a pris 18.37 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 20.24 secondes
+INFO:root:Enregistrement audio a pris 4.30 secondes
+INFO:root:Sauvegarde audio a pris 0.10 secondes
+INFO:root:Transcription audio a pris 0.70 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.10 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 2.14 secondes
+INFO:root:Temps de réponse total a pris 2.14 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 11.80 secondes
+INFO:root:Enregistrement audio a pris 4.29 secondes
+INFO:root:Sauvegarde audio a pris 0.10 secondes
+INFO:root:Transcription audio a pris 0.67 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.06 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 4.72 secondes
+INFO:root:Temps de réponse total a pris 4.73 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 26.24 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.08 secondes
+INFO:root:Transcription audio a pris 0.66 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.02 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 3.03 secondes
+INFO:root:Temps de réponse total a pris 3.03 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 22.59 secondes
+INFO:root:Enregistrement audio a pris 4.29 secondes
+INFO:root:Sauvegarde audio a pris 0.37 secondes
+INFO:root:Transcription audio a pris 0.48 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.15 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 6.70 secondes
+INFO:root:Temps de réponse total a pris 6.70 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 22.92 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.37 secondes
+INFO:root:Transcription audio a pris 0.51 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.17 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 2.74 secondes
+INFO:root:Temps de réponse total a pris 2.74 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 23.62 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.10 secondes
+INFO:root:Transcription audio a pris 0.67 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.05 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 2.46 secondes
+INFO:root:Temps de réponse total a pris 2.46 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 12.36 secondes
+INFO:root:Enregistrement audio a pris 4.29 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.68 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.08 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 6.51 secondes
+INFO:root:Temps de réponse total a pris 6.51 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 23.13 secondes
+INFO:root:Enregistrement audio a pris 4.29 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.66 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.05 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 1.43 secondes
+INFO:root:Temps de réponse total a pris 1.43 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 57.62 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.38 secondes
+INFO:root:Transcription audio a pris 0.41 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.07 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 2.27 secondes
+INFO:root:Temps de réponse total a pris 2.27 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 18.76 secondes
+INFO:root:Enregistrement audio a pris 4.58 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.43 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.13 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 9.49 secondes
+INFO:root:Temps de réponse total a pris 9.49 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 25.40 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.39 secondes
+INFO:root:Reconnaissance vocale totale a pris 4.78 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 3.32 secondes
+INFO:root:Temps de réponse total a pris 3.32 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 22.11 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.44 secondes
+INFO:root:Reconnaissance vocale totale a pris 4.83 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 9.48 secondes
+INFO:root:Temps de réponse total a pris 9.48 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 10.86 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.10 secondes
+INFO:root:Transcription audio a pris 0.66 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.04 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 2.98 secondes
+INFO:root:Temps de réponse total a pris 2.98 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 36.29 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.70 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.08 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 3.19 secondes
+INFO:root:Temps de réponse total a pris 3.19 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 32.53 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.38 secondes
+INFO:root:Transcription audio a pris 0.45 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.10 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 1.84 secondes
+INFO:root:Temps de réponse total a pris 1.84 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 24.17 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.41 secondes
+INFO:root:Reconnaissance vocale totale a pris 4.79 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:groq._base_client:Retrying request to /openai/v1/chat/completions in 0.926414 seconds
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 32.95 secondes
+INFO:root:Temps de réponse total a pris 32.95 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 23.63 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.73 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.11 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 8.26 secondes
+INFO:root:Temps de réponse total a pris 8.26 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 11.77 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.37 secondes
+INFO:root:Transcription audio a pris 0.45 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.09 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 1.62 secondes
+INFO:root:Temps de réponse total a pris 1.62 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 20.83 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.75 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.14 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 9.17 secondes
+INFO:root:Temps de réponse total a pris 9.18 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 20.82 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.37 secondes
+INFO:root:Transcription audio a pris 0.65 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.31 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 3.59 secondes
+INFO:root:Temps de réponse total a pris 3.59 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 21.38 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.37 secondes
+INFO:root:Transcription audio a pris 0.42 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.07 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 9.27 secondes
+INFO:root:Temps de réponse total a pris 9.27 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 19.02 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.68 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.07 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 8.78 secondes
+INFO:root:Temps de réponse total a pris 8.79 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 22.84 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.37 secondes
+INFO:root:Transcription audio a pris 0.43 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.07 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 6.21 secondes
+INFO:root:Temps de réponse total a pris 6.21 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 12.41 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.66 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.05 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 8.31 secondes
+INFO:root:Temps de réponse total a pris 8.32 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 24.86 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.37 secondes
+INFO:root:Transcription audio a pris 0.69 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.34 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 9.59 secondes
+INFO:root:Temps de réponse total a pris 9.59 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 23.04 secondes
+INFO:root:Enregistrement audio a pris 4.30 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.52 secondes
+INFO:root:Reconnaissance vocale totale a pris 4.93 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 4.32 secondes
+INFO:root:Temps de réponse total a pris 4.32 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 26.61 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.10 secondes
+INFO:root:Transcription audio a pris 0.47 secondes
+INFO:root:Reconnaissance vocale totale a pris 4.85 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 10.47 secondes
+INFO:root:Temps de réponse total a pris 10.48 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 21.49 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.96 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.34 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 3.93 secondes
+INFO:root:Temps de réponse total a pris 3.93 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 22.15 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.09 secondes
+INFO:root:Transcription audio a pris 0.67 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.05 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 7.95 secondes
+INFO:root:Temps de réponse total a pris 7.95 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 23.71 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.37 secondes
+INFO:root:Transcription audio a pris 0.63 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.29 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 3.30 secondes
+INFO:root:Temps de réponse total a pris 3.30 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 20.87 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.08 secondes
+INFO:root:Transcription audio a pris 0.84 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.19 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 4.68 secondes
+INFO:root:Temps de réponse total a pris 4.69 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 23.81 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.12 secondes
+INFO:root:Transcription audio a pris 0.71 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.10 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 1.51 secondes
+INFO:root:Temps de réponse total a pris 1.51 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 19.15 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.13 secondes
+INFO:root:Transcription audio a pris 0.65 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.07 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 0.48 secondes
+INFO:root:Temps de réponse total a pris 0.48 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 12.45 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.10 secondes
+INFO:root:Transcription audio a pris 0.64 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.03 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 0.57 secondes
+INFO:root:Temps de réponse total a pris 0.57 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 23.10 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 0.87 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.25 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 0.75 secondes
+INFO:root:Temps de réponse total a pris 0.75 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 15.75 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.10 secondes
+INFO:root:Transcription audio a pris 0.70 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.09 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 2.27 secondes
+INFO:root:Temps de réponse total a pris 2.27 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 16.33 secondes
+INFO:root:Enregistrement audio a pris 4.28 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 1.01 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.40 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 0.88 secondes
+INFO:root:Temps de réponse total a pris 0.88 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 20.90 secondes
+INFO:root:Enregistrement audio a pris 4.27 secondes
+INFO:root:Sauvegarde audio a pris 0.10 secondes
+INFO:root:Transcription audio a pris 0.64 secondes
+INFO:root:Reconnaissance vocale totale a pris 5.02 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 1.21 secondes
+INFO:root:Temps de réponse total a pris 1.22 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 21.99 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.61 secondes
+INFO:root:Enregistrement audio a pris 6.75 secondes
+INFO:root:Sauvegarde audio a pris 0.10 secondes
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\rh.yosra\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\rh.yosra\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Texte-à-parole (pyttsx3) a pris 3.42 secondes
+INFO:root:Enregistrement audio a pris 6.56 secondes
+INFO:root:Sauvegarde audio a pris 0.09 secondes
+INFO:root:Transcription audio a pris 4.21 secondes
+INFO:root:Reconnaissance vocale totale a pris 10.86 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 0.64 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 14.85 secondes
+INFO:root:Temps de réponse total a pris 15.50 secondes
+INFO:root:Enregistrement audio a pris 6.63 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 27.44 secondes
+INFO:root:Reconnaissance vocale totale a pris 34.18 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 0.42 secondes
+INFO:root:Texte-à-parole (pyttsx3) a pris 4.42 secondes
+INFO:root:Temps de réponse total a pris 4.85 secondes
+INFO:root:Enregistrement audio a pris 6.67 secondes
+INFO:root:Sauvegarde audio a pris 0.11 secondes
+INFO:root:Transcription audio a pris 4.00 secondes
+INFO:root:Reconnaissance vocale totale a pris 10.78 secondes
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Appel API Groq a pris 1.76 secondes
